@@ -1,0 +1,7 @@
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\obj\x86\Debug\AutoWorker.Properties.Resources.resources
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\obj\x86\Debug\AutoWorker.csproj.GenerateResource.Cache
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\bin\Debug\AutoWorker.exe
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\bin\Debug\AutoWorker.pdb
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\obj\x86\Debug\AutoWorker.exe
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\obj\x86\Debug\AutoWorker.pdb
+C:\Users\taidn\AppData\Local\Temporary Projects\AutoWorker\obj\x86\Debug\KeyPresser.FormMain.resources
